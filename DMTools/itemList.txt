@@ -1,0 +1,54 @@
+Backpack 5
+Crowbar 10
+Garlic 5
+Grappling hook 25
+Hammer(small) 2
+HolySymbol 25
+HolyWater(vial) 25
+IronSpikes(12)	1
+Lantern	10
+Mirror(hand-sized,steel) 5
+Oil(1 flask) 2
+Pole(10’long,wooden) 1
+Rations(iron,7days) 15
+Rations(standard,7days) 5
+Rope(50’) 1
+Sack(large) 2
+Sack(small) 1
+Stakes(3)and_mallet 3
+Thieves’Tools 25
+TinderBox(flint&steel) 3
+Torches(6) 1
+Waterskin 1
+Wine(2pints) 1
+Wolfsbane(1 bunch) 10
+BattleAxe 7 50 1d8 Melee, Slow, Two-handed
+Club 3 50 1d4 Blunt,Melee
+Crossbow 30 50 1d6 Missile(5’–80’/81’–160’/161’–240’),Reload,Slow,Two-handed
+Dagger 3 10 1d4 Melee,Missile(5’–10’/11’–20’/21’–30’)
+HandAxe 4 30 1d6 Melee,Missile(5’–10’/11’–20’/21’–30’)
+HolyWater(Vial)	25 1d8 Missile (5’–10’/11’–30’/31’–50’),SplashWeapon
+Javelin 1 20 1d4 Missile(5’–30’/31’–60’/61’–90’)
+Lance 5 120 1d6 Charge,Melee
+LongBow 40 30 1d6 Missile(5’–70’/71’–140’/141’–210’),Two-handed
+Mace 5 30 1d6 Blunt, Melee
+Oil(flask),Burning 2 0 1d8 Missile(5’–10’/11’–30’/31’–50’),SplashWeapon
+PoleArm 7 150 1d10 Brace,Melee,Slow,Two-handed
+ShortBow 25 30 1d6 Missile(5’–50’/51’–100’/ 101’–150’),Two-handed
+ShortSword 7 30	1d6 Melee
+SilverDagger 30 10 1d4 Melee,Missile(5’–10’/11’–20’/21’–30’)
+Sling 2 20 1d4 Blunt,Missile(5’–40’/41’–80’/81’–160’)
+Spear 3 30 1d6 Brace,Melee,Missile(5’–20’/21’–40’/ 41’–60’)
+Staff 2 40 1d4 Blunt,Melee,Slow,Two-handed
+Sword 10 60 1d8 Melee
+Torch(x6) 1 0 1d4 Melee
+Two-handedSword 15 150 1d10 Melee,Slow,Two-handed
+WarHammer 5 30 1d6 Blunt,Melee
+AmmoArrows(quiver of 20) 5
+AmmoCrossbowBolts(caseOf30) 10
+AmmoSilverTippedArrow(1) 5
+AmmoSlingStones 0
+ArmorLeather 7[12] 20 200
+Chainmail 5[14] 40 400
+PlateMail 3[16] 60 500
+Shield +1Bonus 10 100
