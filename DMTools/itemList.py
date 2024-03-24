@@ -1,5 +1,3 @@
-import random
-
 class item:
  
     # default constructor
@@ -7,7 +5,7 @@ class item:
         self.name = [name]
         self.attr = []
     
-    def add_atrr(self, att) = []
+    def add_atrr(self, att):
         self.attr.append(att)
     
     # a method for printing data members
