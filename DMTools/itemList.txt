@@ -1,7 +1,7 @@
 Backpack 5
 Crowbar 10
 Garlic 5
-Grappling hook 25
+GrapplingHook 25
 Hammer(small) 2
 HolySymbol 25
 HolyWater(vial) 25
@@ -21,7 +21,7 @@ TinderBox(flint&steel) 3
 Torches(6) 1
 Waterskin 1
 Wine(2pints) 1
-Wolfsbane(1 bunch) 10
+Wolfsbane(1bunch) 10
 BattleAxe 7 50 1d8 Melee, Slow, Two-handed
 Club 3 50 1d4 Blunt,Melee
 Crossbow 30 50 1d6 Missile(5’–80’/81’–160’/161’–240’),Reload,Slow,Two-handed
@@ -44,11 +44,11 @@ Sword 10 60 1d8 Melee
 Torch(x6) 1 0 1d4 Melee
 Two-handedSword 15 150 1d10 Melee,Slow,Two-handed
 WarHammer 5 30 1d6 Blunt,Melee
-AmmoArrows(quiver of 20) 5
+AmmoArrows(quiverof20) 5
 AmmoCrossbowBolts(caseOf30) 10
 AmmoSilverTippedArrow(1) 5
 AmmoSlingStones 0
-ArmorLeather 7[12] 20 200
-Chainmail 5[14] 40 400
-PlateMail 3[16] 60 500
-Shield +1Bonus 10 100
+ArmorLeather  40 7[12] 20 200
+Chainmail  100 5[14] 40 400
+PlateMail 300 3[16] 60 500
+Shield  50 +1Bonus 10 100
